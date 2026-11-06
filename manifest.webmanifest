@@ -1,13 +1,13 @@
 {
   "id": "./",
-  "name": "Mein Tageskalender",
-  "short_name": "Tageskalender",
+  "name": "Fidis Bierkalender",
+  "short_name": "Fidis Bierkalender",
   "description": "Privater Tageskalender",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#f3f6fa",
-  "theme_color": "#101b2e",
+  "background_color": "#f9d792",
+  "theme_color": "#a95400",
   "lang": "de-AT",
   "icons": [
     {
